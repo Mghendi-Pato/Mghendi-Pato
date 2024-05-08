@@ -10,5 +10,13 @@ A dedicated developer, with extensive experience in full-stack web development, 
 - 🌱 Selftaught UI/UX designer
 
  ## 🏆 Skills and Language
+ ###UI/UX Design
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ ###Front-end
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ ###Backend
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+ 
  
  
