@@ -18,7 +18,7 @@ A dedicated developer, with extensive experience in full-stack web development, 
  [![My Skills](https://skillicons.dev/icons?i=figma&perline=10)](https://skillicons.dev)
 - Front-end
   
- [![My Skills](https://skillicons.dev/icons?i=html,css,next,react,js,ts,apollo,materialui,redux&perline=10)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,next,react,js,ts,apollo,materialui,redux&perline=10)](https://skillicons.dev)
 - Backend
   
  [![My Skills](https://skillicons.dev/icons?i=express,mongodb,nodejs,py&perline=10)](https://skillicons.dev)
